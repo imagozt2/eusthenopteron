@@ -1,0 +1,122 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <EustenotOptheronim>Eusthenopteron</EustenotOptheronim>
+      <EustenotOptheronim_stt>Eusthenopteron</EustenotOptheronim_stt>
+      <EustenotOptheronim_lower>The Eusthenopteron</EustenotOptheronim_lower>
+      <EustenotOptheronim_ltt>
+         <color r="255" g="248" b="178">
+            <b>Eusthenopteron</b>
+         </color>
+         <br/>
+         Click to select and place the Eusthenopteron.
+      </EustenotOptheronim_ltt>
+</entityname>
+<zoopedia_eustenotoptheronim>
+ <entry>Eusthenopteron</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/EustenotOptheronim/EustenotOptheronim_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/Extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="254" b="223">
+                     State of conservation:
+                     <br/>
+                        <color r="255" g="128" b="0">
+                      Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Wetlands<br/></color>
+     <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Sea<br/></color> 
+     <img src="ui/icon_maplocations/reef_indian_pacific_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Sarcopterygii <i></i><br/>Order: Tetrapodomorpha <i></i><br/>Family: Tristichopteridae <i></i><br/>Gender: <i>Eusthenopteron</i><br/>Species: <i>E. foordi</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts of Eusthenopte</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Early depictions of this animal show it emerging onto land, however paleontologists now widely agree that it was a strictly aquatic animal. The genus Eusthenopteron is known from several species that lived during the Late Devonian period, about 385 million years ago.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Eusthenopteron was featured in the second episode of Animal Armageddon.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Eusthenopteron has also been widely featured in textbooks as a 'missing link' between fish and tetrapods.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Eusthenopteron were also featured within the large amount of other ancient fish in the movie Ponyo.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Eusthenopteron in campaign and challenge modes, you get 3 stars in your zoo fame. 
+   </color>
+   <p/>Anatomically, Eusthenopteron shares many unique features in common with the earliest known tetrapods. It shares a similar pattern of skull rooting bones with forms such as Ichthyostega and Acanthostega. Eusthenopteron, like other tetrapodomorph fishes, had internal nostrils, (or a choana) which are found only in land animals and sarcopterygians. It also had labyrinthodont teeth, characterized by infolded enamel, which characterizes all of the earliest known tetrapods as well. Like other basal sarcopterygians, Eusthenopteron possessed a two-part cranium, which hinged at mid-length along an intracranial joint. Eusthenopteron's notoriety comes from the pattern of its fin endoskeleton, which bears a distinct humerus, ulna, and radius (in the fore-fin) and femur, tibia, and fibula (in the pelvic fin). These appendicular long bones had epiphyseal growth plates that allowed substantial longitudinal growth through endochondral ossification, as in tetrapod long bones. These six appendicular bones also occur in tetrapods and are a synapomorphy of a large clade of sarcopterygians, possibly Tetrapodomorpha (the humerus and femur are present in all sarcoptergyians). Similarly, its elasmoid scales lack superficial odontodes composed of dentine and enamel; this loss appears to be a synapomorphy with more crownward tetrapodomorphs. Eusthenopteron differs significantly from some later Carboniferous tetrapods in the apparent absence of a recognized larval stage and a definitive metamorphosis. In even the smallest known specimen of Eusthenopteron foordi (at 29 mm), the lepidotrichia cover all of the fins, which does not happen until after metamorphosis in genera like Polyodon. This might indicate that Eusthenopteron developed directly, with the hatchling already attaining the general body form of the adult (Cote et al., 2002). So, Jarvik was perhaps not correct as he proposed (1980) Palaeospondylus gunni might have been the larva (tadpole-like) of Eusthenopteron.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content of:<color r="255" g="231" b="135">Wikipedia</color> Imago
+  </cell>
+ </text>
+</zoopedia_eustenotoptheronim>
+</ZT2Strings>

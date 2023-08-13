@@ -1,0 +1,122 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <EustenotOptheronim>Eusthenopteron</EustenotOptheronim>
+      <EustenotOptheronim_stt>Eusthenopteron</EustenotOptheronim_stt>
+      <EustenotOptheronim_lower>El Eusthenopteron</EustenotOptheronim_lower>
+      <EustenotOptheronim_ltt>
+         <color r="255" g="248" b="178">
+            <b>Eusthenopteron</b>
+         </color>
+         <br/>
+         Clic para seleccionar el Eusthenopteron, un pez tetrapodomorfo.
+      </EustenotOptheronim_ltt>
+</entityname>
+<zoopedia_eustenotoptheronim>
+ <entry>Eusthenopteron</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/EustenotOptheronim/EustenotOptheronim_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/Extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="254" b="223">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="128" b="0">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Humedales<br/></color>
+     <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Aguas dulces y saladas<br/></color> 
+     <img src="ui/icon_maplocations/reef_indian_pacific_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Sarcopterygii <i></i><br/>Orden: Tetrapodomorpha <i></i><br/>Familia: Tristichopteridae <i></i><br/>Genero: <i>Eusthenopteron</i><br/>Especie: <i>E. foordi</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Eusthenopteron</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El genero Eusthenopteron se conoce bien debido al hallazgo de restos de varias especies que vivieron durante el ultimo periodo Devonico, hace cerca de 385 millones, en aguas dulces y saladas de Norteamerica y Europa.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">La vision cientifica usual de este animal lo mostraba emergiendo del agua para desplazarse por tierra; no obstante los paleontologos actuales convienen mayoritariamente en que era un animal pelagico.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vive en aguas dulces y saladas.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es muy similar a Hyneria.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Eusthenopteron en modos desafio, debes conseguir 3 estrellas de fama en tu zoo. 
+   </color>
+   <p/>Anatomicamente, Eusthenopteron comparte muchas caracteristicas unicas con los primeros tetrapodos conocidos. Tiene en comun, por ejemplo, un patron similar en los huesos que asientan en el craneo con las formas de Ichthyostega y Acanthostega. Eusthenopteron, como otros peces tetrapodomorfos, tenia las ventanas de la nariz internas, caracteristica que se encuentra solamente en animales terrestres y sarcopterigios. Tambien tenia dientes laberintodontes, lo que constituye un rasgo comun de todos los tetrapodos primitivos.Como los otros sarcopterigios basales, Eusthenopteron tenia un craneo bipartito, que se abisagraba hacia la mitad a lo largo del empalme intracraneal. La notoriedad de Eusthenopteron proviene del patron del endoesqueleto de sus aletas, que lleva un humero, un cubito, y un radio (en la aleta delantera) y un femur, una tibia, y una fibula distintos (en la aleta pelvica). Este es el patron caracteristico de los tetrapodos. Ahora se sabe que es un rasgo general de las aletas de todos los sarcopterigios fosiles. Se cree que estas fuertes aletas ayudaban a Eusthenopteron a desplazarse reptando durante epocas de sequia, en busca de un nuevo habitat acuatico. Dichos movimientos fuera del agua tambien eran posibles gracias a la posesion de pulmones ademas de agallas. Tenia unas dimensiones de hasta 130 centimetros, aunque normalmente media unos 30 o 60 como minimo. Su cola era caracteristica, ya que su perfil era curvo y rematado en tres puntas, a modo de tridente. La aleta posterior debio de proporcionarle al animal la capacidad de realizar impulsos rapidos, imprescindibles tanto para la caza como para la huida. Eusthenopteron se diferencia perceptiblemente de tetrapodos posteriores del Carbonifero en la ausencia evidente de una etapa larval reconocida y de una metamorfosis definitiva. Incluso en el especimen mas diminuto conocido de E. foordi (de 29 milimetros), la lepidotriquia cubre todas las aletas, lo cual no sucede sino hasta despues de la metamorfosis en generos como Polyodon (peces espatula). Esto puede indicar que Eusthenopteron se desarrollaba directamente, con la forma general del cuerpo del adulto ya presente en los alevines. La especializacion de los vertebrados del Devonico Superior produjo que peces de aletas lobulares como Panderichthys tuvieran descendientes como Eusthenopteron que podian respirar aire en charcas pantanosas; como Tiktaalik cuyas aletas similares a patas pudieron llevarlo a tierra, precediendo a los primeros tetrapodos anfibios como Acanthostega, cuyos pies tenian ocho digitos, e Ichthyostega cuyos miembros eran bien desarrollados. Los sarcopterigios evolucionaron hacia formas como los celacantos que aun existen hoy en dia. Durante el Devonico las estaciones secas y calurosas eran muy duras, provocando grandes problemas a muchas especies acuaticas. Cuando bajaba el nivel de las charcas y los lagos, los peces se quedaban sin suficiente oxigeno, y probablemente moririan por la anoxia antes incluso del desecamiento total de la zona. Esta situacion ejercio una presion selectiva que solo generos como Eusthenopteron estaban preparados para soportar..
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de:<color r="255" g="231" b="135">Wikipedia</color> Imago
+  </cell>
+ </text>
+</zoopedia_eustenotoptheronim>
+</ZT2Strings>
